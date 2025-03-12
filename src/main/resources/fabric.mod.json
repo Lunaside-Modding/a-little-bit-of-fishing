@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "albof",
+  "version": "${version}",
+
+  "name": "A Little Bit of Fishing",
+  "description": "",
+  "authors": [],
+  "contact": {},
+
+  "license": "All-Rights-Reserved",
+  "icon": "assets/albof/icon.png",
+
+  "environment": "client",
+  "entrypoints": {
+    "client": ["net.notaglitch.albof.client.AlbofClient"],
+    "main": ["net.notaglitch.albof.Albof"]
+  },
+
+  "mixins": [
+    "albof.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
