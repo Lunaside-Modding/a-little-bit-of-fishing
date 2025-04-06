@@ -1,5 +1,3 @@
-![wip](https://github.com/user-attachments/assets/be72b78e-65fe-4385-bc98-350dd33b813c)
-
 ![alboe logo](https://github.com/user-attachments/assets/80c402eb-375b-40f9-ae32-a450b622ccb6)
 ![albof](https://github.com/user-attachments/assets/8dd65109-1047-4749-960b-9991543d3223)
 
